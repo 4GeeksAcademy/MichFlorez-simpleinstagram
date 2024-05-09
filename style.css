@@ -1,0 +1,16 @@
+body{margin: 0; font-family: Helvetica;}
+header{text-align: center;}
+div.header{padding: 15px;}
+div.header h2{margin: 0;font-size: 20px;display: inline-block;}
+div.description{padding: 15px;}
+section{background-color: #fafafa; height: :100%;padding-top: 60px;}
+.box{background:white; width: 600px;
+    margin: auto;margin-bottom: 60px;
+    margin-top: 60px;border: 1px solid #EDEEEE;
+    border-radius: 5px;
+}
+.box .header .date{float: right;margin: 0; color: grey;}
+
+img{
+    width: 100%;
+}
